@@ -20,18 +20,26 @@ Dashboard: Visual summary highlighting key fraud insights
 
 # 🛠️ Tools and Techniques Used
 SQL:
+
 🔹 Data extraction, cleaning, and transformation
+
 🔹 Writing queries to flag fraudulent transactions based on business rules
+
 🔹 Combining multiple tables to create analysis-ready datasets
 
 Excel:
+
 🔹 VLOOKUP and HLOOKUP for retrieving data both vertically and horizontally within datasets
+
 🔹 Pivot tables and charts for creating an interactive and summarised dashboard
 
 # 📊 Key Features of the Dashboard
 ✅ Fraud transaction summary and total fraud amount analysis
+
 ✅ Hourly distribution of fraudulent transactions
+
 ✅ Fraud analysis by merchant, device, and location
+
 ✅ Interactive visuals to identify trends and high-risk areas efficiently
 
 # 💡 Learning and Business Impact
