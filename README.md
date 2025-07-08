@@ -54,7 +54,9 @@ Designing clear and insightful dashboards to support business risk mitigation an
 The dashboard enables stakeholders to:
 
 ✔️ Identify fraud-prone time slots, merchants, and locations
+
 ✔️ Take proactive actions based on patterns and trends
+
 ✔️ Strategically allocate fraud investigation resources for maximum impact
 
 # 🌟 Key Takeaway:
